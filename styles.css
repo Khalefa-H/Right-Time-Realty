@@ -1,4 +1,4 @@
-/* styles.css */
+﻿/* styles.css */
 body {
     background-color: #f2f2f2;
     font-family: Arial, sans-serif;
@@ -9,7 +9,7 @@ h1 {
 }
 /* Hide Event tabs */
 #WDxLfe > ul > li:nth-child(3) > div.PsKE7e.qV4dIc.Qrrb5.YSH9J > div > a {
-    display: none;
+    display: inherit;
 }
 
 
